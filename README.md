@@ -9,7 +9,7 @@
     `-yMMMdo yd-.            ./MMMmd`  sd-.   mMMNd- -oMMMmy sM:. `-dMMNd:  -d/  .MMMmh   yMMNd/    
        `hmmmm:`                `+mmmmmm/`     hmmo`    `smmmm+`      .mmmmmmy`   .mmm:`   smmy`   
 ----------------------------------------------------------------------------------------------------
-# mormon
+# Mormon
 
 Pen. Testing Tool Made w/ Python
 
