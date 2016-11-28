@@ -29,13 +29,13 @@ It may be benificial to use "pip" when installing these modules.
 
 ```
 <mormon>
-	<password>changeme</password> 	#Password to Check
-	<start>067700000</start>	    #Number to start at
-	<end>500</end>			        #Length of search
-	<mark>100</mark>		        #Mark progress every X login attemps
-	<startdelay>0</startdelay>	    #Delay for Y seconds after startup
-	<delay>0</delay>		        #Delay in between chunksets
-	<chunkset>10<chunkset>		    #Check X usernames before resting for Y seconds of time
+	<password>[Password Goes Here]</password> 		#Password to Check
+	<start>[9 Digit Number Goes Here]</start>	    #Number to start at
+	<end>[Number Goes Here]</end>			        #Length of search
+	<mark>[Number Goes Here]</mark>		        	#Mark progress every X login attemps
+	<startdelay>[Number Goes Here]</startdelay>	    #Delay for Y seconds after startup
+	<delay>[Number Goes Here]</delay>		        #Delay in between chunksets
+	<chunkset>[Number Goes Here]<chunkset>		    #Check X usernames before resting for Y seconds of time
 </mormon>
 ```
 
