@@ -1,0 +1,1 @@
+python mormon.py config.xml

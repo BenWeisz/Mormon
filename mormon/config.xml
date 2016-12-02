@@ -1,0 +1,9 @@
+<mormon>
+	<password>[password]</password>
+	<start>067700000</start>
+	<end>500</end>
+	<mark>5000</mark>
+	<startdelay>0</startdelay>
+	<delay>300</delay>
+	<chunkset>10000</chunkset>
+</mormon>
